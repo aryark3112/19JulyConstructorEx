@@ -1,0 +1,8 @@
+D:\19JulyConstructorEx\19JulyConstructorEx\obj\Debug\19JulyConstructorEx.csproj.AssemblyReference.cache
+D:\19JulyConstructorEx\19JulyConstructorEx\obj\Debug\19JulyConstructorEx.csproj.SuggestedBindingRedirects.cache
+D:\19JulyConstructorEx\19JulyConstructorEx\obj\Debug\19JulyConstructorEx.csproj.CoreCompileInputs.cache
+D:\19JulyConstructorEx\19JulyConstructorEx\bin\Debug\19JulyConstructorEx.exe.config
+D:\19JulyConstructorEx\19JulyConstructorEx\bin\Debug\19JulyConstructorEx.exe
+D:\19JulyConstructorEx\19JulyConstructorEx\bin\Debug\19JulyConstructorEx.pdb
+D:\19JulyConstructorEx\19JulyConstructorEx\obj\Debug\19JulyConstructorEx.exe
+D:\19JulyConstructorEx\19JulyConstructorEx\obj\Debug\19JulyConstructorEx.pdb
